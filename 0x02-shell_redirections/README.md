@@ -1,1 +1,2 @@
-hello world script
+# 0x02 Shell, I/0 Redirection and filters
+
